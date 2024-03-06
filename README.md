@@ -1,7 +1,7 @@
 # Lexical Analyzer
 The Lexical Analyzer project is an implementation of the fundamental concept in compiler design - the lexical analysis phase. In this phase, a compiler breaks down the statements of a program into lexical tokens, which are then used for further analysis to determine if the statements are syntactically correct.
 
-**Introduction**
+## Introduction
 The Lexical Analyzer is an essential component of any compiler or interpreter. It serves as the initial step in the compilation process, where the source code is scanned and divided into tokens based on predefined rules. These tokens represent the smallest units of meaning in the programming language, such as keywords, identifiers, literals, and operators.
 
 **Functionality**
