@@ -16,7 +16,7 @@ Run the Program: Execute the compiled program and provide the input program or s
 
 View Output: The program will process the input and generate lexical tokens as output.
 
-**References**
+## References
 To learn more about the concept of lexical analysis and compiler design, refer to the following resources:
 Lexical Analysis - Wikipedia
 Compiler Design: Lexical Analysis - GeeksforGeeks
